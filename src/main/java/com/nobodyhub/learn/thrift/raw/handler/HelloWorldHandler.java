@@ -1,6 +1,6 @@
-package com.nobodyhub.learn.thrift.handler;
+package com.nobodyhub.learn.thrift.raw.handler;
 
-import com.nobodyhub.learn.thrift.service.HelloWorldService;
+import com.nobodyhub.learn.thrift.raw.service.HelloWorldService;
 import org.apache.thrift.TException;
 
 /**

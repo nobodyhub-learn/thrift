@@ -1,7 +1,7 @@
-package com.nobodyhub.learn.thrift;
+package com.nobodyhub.learn.thrift.raw;
 
-import com.nobodyhub.learn.thrift.handler.HelloWorldHandler;
-import com.nobodyhub.learn.thrift.service.HelloWorldService;
+import com.nobodyhub.learn.thrift.raw.handler.HelloWorldHandler;
+import com.nobodyhub.learn.thrift.raw.service.HelloWorldService;
 import org.apache.thrift.server.TServer;
 import org.apache.thrift.server.TSimpleServer;
 import org.apache.thrift.transport.TServerSocket;

@@ -1,6 +1,6 @@
-package com.nobodyhub.learn.thrift;
+package com.nobodyhub.learn.thrift.raw;
 
-import com.nobodyhub.learn.thrift.service.HelloWorldService;
+import com.nobodyhub.learn.thrift.raw.service.HelloWorldService;
 import org.apache.thrift.TException;
 import org.apache.thrift.protocol.TBinaryProtocol;
 import org.apache.thrift.protocol.TProtocol;

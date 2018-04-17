@@ -1,4 +1,4 @@
-namespace java com.nobodyhub.learn.thrift.service
+namespace java com.nobodyhub.learn.thrift.raw.service
 
 service HelloWorldService
 {

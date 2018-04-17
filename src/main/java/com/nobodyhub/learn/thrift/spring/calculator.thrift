@@ -2,7 +2,7 @@ namespace java com.nobodyhub.learn.thrift.spring.service
 
 enum TOperation {
     ADD = 1,
-    SUBSTRCT = 2,
+    SUBTRACT = 2,
     MULTIPLY = 3,
     DIVIDE = 4
 }
